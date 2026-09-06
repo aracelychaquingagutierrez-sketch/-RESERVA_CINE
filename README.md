@@ -1,5 +1,5 @@
 # Reserva de Asientos_ sala de cine 
-# ARACELY Chaquinga Gutierrez
+# Aracely Chaquinga Gutierrez
 # Objetivo
 El programa crea una matriz de 3 filas y 4 columnas que representa los asientos de una sala de cine. El usuario ingresa una fila y una columna par reservar un asiento, 
 el cual se marca con el número 
